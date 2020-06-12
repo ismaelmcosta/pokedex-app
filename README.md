@@ -27,10 +27,16 @@ Run the following command in order to start the application in a development env
 ```yarn dev```
 
 
+
  
 
 ## :hammer: Deploy
-[Zeit](https://zeit.co/) provides a easy way to deploy NextJS applications. You may create a now.json file with the build configuration.
+[Vercel](https://vercel.com/) provides a easy way to deploy NextJS applications. You may create a now.json file with the build configuration.
+
+
+## : Demo
+
+https://pokedex-app.ismaelmcosta.now.sh
 
  
  
